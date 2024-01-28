@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "raymath.h": "c",
+        "raylib.h": "c",
+        "constants.h": "c",
+        "projectile.h": "c",
+        "game_projectiles.h": "c",
+        "game_ui.h": "c",
+        "game.h": "c"
+    }
+}
